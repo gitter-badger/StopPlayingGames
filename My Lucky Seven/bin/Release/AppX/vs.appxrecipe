@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>TALIZORAH</Machine>
+    <WindowsUser>Sudden</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>d3566834-6b48-4300-ac36-7f33a3a83588</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Sudden\Documents\Visual Studio 2013\Projects\My Lucky Seven\obj\Release\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>B688657F8AF521A807BDA1106348D70BD94A05827CB31B4CF1CD1F57EBD600DD</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>d3566834-6b48-4300-ac36-7f33a3a83588_1.0.0.0_neutral__hc7jrg2z6z8z0</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>d3566834-6b48-4300-ac36-7f33a3a83588_hc7jrg2z6z8z0!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>d3566834-6b48-4300-ac36-7f33a3a83588</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Sudden</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Sudden\Documents\Visual Studio 2013\Projects\My Lucky Seven\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T10:27:15.780</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Sudden\Documents\Visual Studio 2013\Projects\My Lucky Seven\bin\Release\My Lucky Seven.exe">
+      <PackagePath>My Lucky Seven.exe</PackagePath>
+      <Modified>2015-07-06T10:27:15.656</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sudden\Documents\Visual Studio 2013\Projects\My Lucky Seven\Assets\ArcadeRiff.wav">
+      <PackagePath>Assets\ArcadeRiff.wav</PackagePath>
+      <Modified>2015-07-05T17:08:58.141</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sudden\Documents\Visual Studio 2013\Projects\My Lucky Seven\Assets\Coins.jpg">
+      <PackagePath>Assets\Coins.jpg</PackagePath>
+      <Modified>2015-07-05T17:03:59.993</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sudden\Documents\Visual Studio 2013\Projects\My Lucky Seven\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-22T22:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sudden\Documents\Visual Studio 2013\Projects\My Lucky Seven\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-22T22:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sudden\Documents\Visual Studio 2013\Projects\My Lucky Seven\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T10:04:28.475</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sudden\Documents\Visual Studio 2013\Projects\My Lucky Seven\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-22T22:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sudden\Documents\Visual Studio 2013\Projects\My Lucky Seven\bin\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-07-06T10:27:15.534</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sudden\Documents\Visual Studio 2013\Projects\My Lucky Seven\bin\Release\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-07-06T10:27:15.535</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sudden\Documents\Visual Studio 2013\Projects\My Lucky Seven\bin\Release\My Lucky Seven.xr.xml">
+      <PackagePath>My Lucky Seven.xr.xml</PackagePath>
+      <Modified>2015-07-06T10:24:03.683</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sudden\Documents\Visual Studio 2013\Projects\My Lucky Seven\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-07-06T10:27:15.721</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

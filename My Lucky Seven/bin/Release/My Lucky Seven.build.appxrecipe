@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>TALIZORAH</Machine>
+    <WindowsUser>Sudden</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>d3566834-6b48-4300-ac36-7f33a3a83588</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Sudden\Documents\Visual Studio 2013\Projects\My Lucky Seven\obj\Release\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Sudden\Documents\Visual Studio 2013\Projects\My Lucky Seven\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Sudden\Documents\Visual Studio 2013\Projects\My Lucky Seven\bin\Release\My Lucky Seven.exe">
+      <PackagePath>My Lucky Seven.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sudden\Documents\Visual Studio 2013\Projects\My Lucky Seven\Assets\ArcadeRiff.wav">
+      <PackagePath>Assets\ArcadeRiff.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sudden\Documents\Visual Studio 2013\Projects\My Lucky Seven\Assets\Coins.jpg">
+      <PackagePath>Assets\Coins.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sudden\Documents\Visual Studio 2013\Projects\My Lucky Seven\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sudden\Documents\Visual Studio 2013\Projects\My Lucky Seven\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sudden\Documents\Visual Studio 2013\Projects\My Lucky Seven\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sudden\Documents\Visual Studio 2013\Projects\My Lucky Seven\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sudden\Documents\Visual Studio 2013\Projects\My Lucky Seven\bin\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sudden\Documents\Visual Studio 2013\Projects\My Lucky Seven\bin\Release\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sudden\Documents\Visual Studio 2013\Projects\My Lucky Seven\bin\Release\My Lucky Seven.xr.xml">
+      <PackagePath>My Lucky Seven.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sudden\Documents\Visual Studio 2013\Projects\My Lucky Seven\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,36 @@
+C:\Users\Sudden\Documents\Visual Studio 2013\Projects\My Lucky Seven\bin\Release\App.xbf
+C:\Users\Sudden\Documents\Visual Studio 2013\Projects\My Lucky Seven\bin\Release\MainPage.xbf
+C:\Users\Sudden\Documents\Visual Studio 2013\Projects\My Lucky Seven\bin\Release\My Lucky Seven.xr.xml
+C:\Users\Sudden\Documents\Visual Studio 2013\Projects\My Lucky Seven\bin\Release\My Lucky Seven.exe
+C:\Users\Sudden\Documents\Visual Studio 2013\Projects\My Lucky Seven\bin\Release\My Lucky Seven.pdb
+C:\Users\Sudden\Documents\Visual Studio 2013\Projects\My Lucky Seven\bin\Release\My Lucky Seven.xml
+C:\Users\Sudden\Documents\Visual Studio 2013\Projects\My Lucky Seven\bin\Release\resources.pri
+C:\Users\Sudden\Documents\Visual Studio 2013\Projects\My Lucky Seven\bin\Release\AppxManifest.xml
+C:\Users\Sudden\Documents\Visual Studio 2013\Projects\My Lucky Seven\bin\Release\My Lucky Seven.build.appxrecipe
+C:\Users\Sudden\Documents\Visual Studio 2013\Projects\My Lucky Seven\obj\Release\App.g.i.vb
+C:\Users\Sudden\Documents\Visual Studio 2013\Projects\My Lucky Seven\obj\Release\App.g.vb
+C:\Users\Sudden\Documents\Visual Studio 2013\Projects\My Lucky Seven\obj\Release\MainPage.g.i.vb
+C:\Users\Sudden\Documents\Visual Studio 2013\Projects\My Lucky Seven\obj\Release\MainPage.g.vb
+C:\Users\Sudden\Documents\Visual Studio 2013\Projects\My Lucky Seven\obj\Release\XamlTypeInfo.g.vb
+C:\Users\Sudden\Documents\Visual Studio 2013\Projects\My Lucky Seven\obj\Release\App.xaml
+C:\Users\Sudden\Documents\Visual Studio 2013\Projects\My Lucky Seven\obj\Release\MainPage.xaml
+C:\Users\Sudden\Documents\Visual Studio 2013\Projects\My Lucky Seven\obj\Release\App.xbf
+C:\Users\Sudden\Documents\Visual Studio 2013\Projects\My Lucky Seven\obj\Release\MainPage.xbf
+C:\Users\Sudden\Documents\Visual Studio 2013\Projects\My Lucky Seven\obj\Release\XamlSaveStateFile.xml
+C:\Users\Sudden\Documents\Visual Studio 2013\Projects\My Lucky Seven\obj\Release\My Lucky Seven.exe
+C:\Users\Sudden\Documents\Visual Studio 2013\Projects\My Lucky Seven\obj\Release\My Lucky Seven.xml
+C:\Users\Sudden\Documents\Visual Studio 2013\Projects\My Lucky Seven\obj\Release\My Lucky Seven.pdb
+C:\Users\Sudden\Documents\Visual Studio 2013\Projects\My Lucky Seven\obj\Release\priconfig.xml
+C:\Users\Sudden\Documents\Visual Studio 2013\Projects\My Lucky Seven\obj\Release\priconfig.xml.intermediate
+C:\Users\Sudden\Documents\Visual Studio 2013\Projects\My Lucky Seven\obj\Release\layout.resfiles
+C:\Users\Sudden\Documents\Visual Studio 2013\Projects\My Lucky Seven\obj\Release\layout.resfiles.intermediate
+C:\Users\Sudden\Documents\Visual Studio 2013\Projects\My Lucky Seven\obj\Release\resources.resfiles
+C:\Users\Sudden\Documents\Visual Studio 2013\Projects\My Lucky Seven\obj\Release\resources.resfiles.intermediate
+C:\Users\Sudden\Documents\Visual Studio 2013\Projects\My Lucky Seven\obj\Release\pri.resfiles
+C:\Users\Sudden\Documents\Visual Studio 2013\Projects\My Lucky Seven\obj\Release\pri.resfiles.intermediate
+C:\Users\Sudden\Documents\Visual Studio 2013\Projects\My Lucky Seven\obj\Release\qualifiers.txt
+C:\Users\Sudden\Documents\Visual Studio 2013\Projects\My Lucky Seven\obj\Release\qualifiers.txt.intermediate
+C:\Users\Sudden\Documents\Visual Studio 2013\Projects\My Lucky Seven\obj\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Sudden\Documents\Visual Studio 2013\Projects\My Lucky Seven\obj\Release\ProjectArchitectures.txt
+C:\Users\Sudden\Documents\Visual Studio 2013\Projects\My Lucky Seven\bin\Release\My Lucky Seven.exe.CodeAnalysisLog.xml
+C:\Users\Sudden\Documents\Visual Studio 2013\Projects\My Lucky Seven\bin\Release\My Lucky Seven.exe.lastcodeanalysissucceeded
